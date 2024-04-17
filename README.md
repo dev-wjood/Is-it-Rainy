@@ -14,5 +14,5 @@ API documentaion link: https://openweathermap.org/api/geocoding-api
 
 
 ## Notes 📝 
-- The APIs calls difference from version to version.
+The APIs calls difference from version to version.
 - The used version of One Call API is 3.0 version, and the version of geocoding is 2.5.
