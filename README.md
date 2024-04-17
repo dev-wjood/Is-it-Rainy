@@ -9,5 +9,10 @@ Entring the location name (country, city, ect..) by any lanuage you prefer. when
 We used the 'One Call API 3.0' provided by 'Open Weather Map' to get the current weather in specific location.
 API documentaion link: https://openweathermap.org/api/one-call-3
 
-And another services provide bu the Open Weather Map' company is to get the latitude and longitude of a location.
+And another services provide by the Open Weather Map' company is to get the geo code of a location.
 API documentaion link: https://openweathermap.org/api/geocoding-api
+
+
+## Notes 📝 
+- The APIs calls difference from version to version.
+- The used version of One Call API is 3.0 version, and the version of geocoding is 2.5.
