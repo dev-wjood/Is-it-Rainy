@@ -5,7 +5,7 @@ Checking the weather in the fly with simple and beautiful interface and easy one
 ## How it Works ⚙️
 Entring the location name (country, city, ect..) by any lanuage you prefer. When presseing Enter key of clicking the search icon the weather information will appears very quick. <br><br>
 
-## Used API 🖇️
+## Used APIs 🖇️
 We used the 'One Call API 3.0' provided by 'Open Weather Map' to get the current weather in specific location. <br>
 API documentaion link: https://openweathermap.org/api/one-call-3
 
