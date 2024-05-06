@@ -1,4 +1,4 @@
-// Declare
+// Get elements from HTML tags
 const container = document.querySelector('.container');
 const cityInput = document.querySelector('.cityInput');
 const search = document.querySelector('.search-box button');
